@@ -1,4 +1,4 @@
-package com.erlei;
+package com.java.learn;
 
 import static org.junit.Assert.assertTrue;
 
