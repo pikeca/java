@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.aliyun.iotx:iotx-rbac-service:1.2.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/iotx/iotx-rbac-service/1.2.1-SNAPSHOT/iotx-rbac-service-1.2.1-20180516.082137-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/iotx/iotx-rbac-service/1.2.1-SNAPSHOT/iotx-rbac-service-1.2.1-20180516.082137-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/iotx/iotx-rbac-service/1.2.1-SNAPSHOT/iotx-rbac-service-1.2.1-20180516.082137-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.springframework:spring-jcl:999-not-exist-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/999-not-exist-SNAPSHOT/spring-jcl-999-not-exist-20180308.110450-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/999-not-exist-SNAPSHOT/spring-jcl-999-not-exist-20180308.110450-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jcl/999-not-exist-SNAPSHOT/spring-jcl-999-not-exist-20180308.110450-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

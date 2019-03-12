@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.alibaba.middleware:switch-sdk:2.1.0.4.2--2018-06-stable">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/middleware/switch-sdk/2.1.0.4.2--2018-06-stable/switch-sdk-2.1.0.4.2--2018-06-stable.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/middleware/switch-sdk/2.1.0.4.2--2018-06-stable/switch-sdk-2.1.0.4.2--2018-06-stable-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/alibaba/middleware/switch-sdk/2.1.0.4.2--2018-06-stable/switch-sdk-2.1.0.4.2--2018-06-stable-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

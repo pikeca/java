@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.aliyun.iotx:api-admin-service-client:1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/iotx/api-admin-service-client/1.0.1-SNAPSHOT/api-admin-service-client-1.0.1-20180808.163016-3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/iotx/api-admin-service-client/1.0.1-SNAPSHOT/api-admin-service-client-1.0.1-20180808.163016-3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/iotx/api-admin-service-client/1.0.1-SNAPSHOT/api-admin-service-client-1.0.1-20180808.163016-3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

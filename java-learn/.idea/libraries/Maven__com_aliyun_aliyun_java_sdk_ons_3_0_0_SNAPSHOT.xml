@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.aliyun:aliyun-java-sdk-ons:3.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-ons/3.0.0-SNAPSHOT/aliyun-java-sdk-ons-3.0.0-20190116.073346-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-ons/3.0.0-SNAPSHOT/aliyun-java-sdk-ons-3.0.0-20190116.073346-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/aliyun/aliyun-java-sdk-ons/3.0.0-SNAPSHOT/aliyun-java-sdk-ons-3.0.0-20190116.073346-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
